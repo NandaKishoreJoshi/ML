@@ -1,0 +1,2 @@
+Scatter plot for each column is in Advance Regression CO2 case study
+Cross Validation technique with pipeline - Cross Validation Lnear Regression
